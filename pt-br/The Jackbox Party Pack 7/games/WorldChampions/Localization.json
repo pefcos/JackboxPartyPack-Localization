@@ -5,7 +5,7 @@
             "LANGUAGE": "Língua",
             "INTERNET_CONNECTED": "Acabamos de encontrar a internet.",
             "INTERNET_DISCONNECTED": "Desculpe, não conseguimos conectar aos servidores Jackbox Games.<br />Verifique se a sua conexão com a Internet está funcionando corretamente.",
-            "ROOM_DESTROYED": "Lamentamos, ocorreu um erro de rede e o seu quarto foi destruído.<br />Verifique se a sua conexão com a Internet está funcionando corretamente.",
+            "ROOM_DESTROYED": "Lamentamos, ocorreu um erro de rede e sua sala foi destruída.<br />Verifique se a sua conexão com a Internet está funcionando corretamente.",
             "SOCKET_DISCONNECTED ": "Desculpe, perdemos sua conexão com os servidores Jackbox Games.",
             "TIMEOUT": "Desculpe, não conseguimos conectar aos servidores Jackbox Games.<br />Verifique se a sua conexão com a Internet está funcionando corretamente.",
             "USER_DISCONNECT": "Desculpe, o servidor desconectou você. Por favor, tente novamente.",
